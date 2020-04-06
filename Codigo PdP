@@ -22,7 +22,7 @@
     <meta name="keywords" content="Simple">
 
     <!-- Styles -->
-    <link href="https://comisariavirtual.cl/css/app.css " rel="stylesheet">
+    <link href="https://sitios.cl/css/app.css " rel="stylesheet">
 
     <meta name="google" content="notranslate"/>
 
@@ -36,7 +36,7 @@
 <div id="app" >
     <nav class="navbar navbar-expand-lg navbar-light bgcarab">
     <div class="container">
-        <a class="" href="https://comisariavirtual.cl">
+        <a class="" href="https://sitios.cl">
             <div class="media">
                 <img class="align-self-center mr-3 logo"
                      src="https://comisariavirtual.cl/logos/logo28.png"
