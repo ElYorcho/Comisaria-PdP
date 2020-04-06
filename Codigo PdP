@@ -17,7 +17,7 @@
     <!-- CSRF Token -->
     <meta name="csrf-token" content="8akQTuWFgd4E18M2ACeXzlHkuwLTEj1pzuuhW4r0">
 
-    <title>Comisaria inVirtual23</title>
+    <title>Comisaria Virtual</title>
     <meta name="description" content="Simple">
     <meta name="keywords" content="Simple">
 
@@ -36,7 +36,7 @@
 <div id="app" >
     <nav class="navbar navbar-expand-lg navbar-light bgcarab">
     <div class="container">
-        <a class="" href="https:/comisariavirtual.cl">
+        <a class="" href="https://comisariavirtual.cl">
             <div class="media">
                 <img class="align-self-center mr-3 logo"
                      src="https://comisariavirtual.cl/logos/logo28.png"
@@ -78,7 +78,7 @@
     </div>
 </nav>
     <div class="main-container container pb-5">
-            <h1 class="title">Listado de ranas croando</h1>
+            <h1 class="title">Listado de trámites disponibles</h1>
     
     <hr>
     <br>
@@ -428,7 +428,7 @@ Permiso con vigencia hasta que se cumpla la gestión.</p>
                                         <p class="card-text">
                                             10 Permiso Temporal Individual - Entregar alimentos u otros insumos de primera necesidad a Adultos mayores
                                         </p>
-                                        <p>Autorizaciones atemporales para entregar alimentos u otros insumos de segunda necesidad a adultos mayores.
+                                        <p>Autorizaciones temporales para entregar alimentos u otros insumos de primera necesidad a adultos mayores.
 Permiso con vigencia por 02 horas.
 Un máximo de 02 permisos a la semana.
 No válido en horario de toque de queda.</p>
